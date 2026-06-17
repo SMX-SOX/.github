@@ -8,3 +8,7 @@ Professors:
 
 - Carlos Alonso Martínez
 - Carles Fugarolas
+
+## Continguts destacats
+
+- [Programació del mòdul](https://github.com/SMX-SOX/programacio)
