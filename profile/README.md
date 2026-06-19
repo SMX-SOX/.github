@@ -18,5 +18,6 @@ Professors:
 
 ## Enllaços al contingut
 
+- [Presentació del mòdul](https://github.com/SMX-SOX/presentacio)
 - [Programació del mòdul](https://github.com/SMX-SOX/programacio)
 - [Materials del mòdul](https://github.com/SMX-SOX/materials)
