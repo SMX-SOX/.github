@@ -30,20 +30,23 @@ Els nuclis formatius s'imparteixen cadascun d'ells a un dels trimestres del curs
 
 ## Avaluació del mòdul
 
-Tot i que l'avaluació es basa en els Resultats d'Aprenentatge (RA), que és el que us apareixerà en els butlletins de notes, l'avaluació es realitzarà de manera continua a lo llarg del curs usant com a referència els nuclis formatius.
+Tot i que l'avaluació es basa en els Resultats d'Aprenentatge (RA), que és el que us apareixerà en els butlletins de notes, l'avaluació es realitzarà de manera continua a lo llarg del curs mitjançant les diferents unitats didàctiques que componen cada nucli formatiu.
+
+### Qualificació del mòdul
 
 $$
 QMP = 0,15 \cdot QRA_1 + 0,15 \cdot QRA_2 + 0,15 \cdot QRA_3 + 0,15 \cdot QRA_4 + 0,15 \cdot QRA_5 + 0,15 \cdot QRA_6 + 0,10 \cdot QEM
 $$
 
-### Avaluació contínua
+Per aprovar el mòdul professional:
 
-Per superar el mòdul cal aprovar tots els RA, amb una nota mínima de 5 sobre 10. En cas de no superar algun RA, caldrà fer la segona convocatòria.
+- La nota del mòdul ha de ser superior o igual a 5.
+- La nota de cadascun dels RA (resultats d’aprenentatge ha de ser igual o superior a 5).
+- Quan un RA estigui es toqui en més d'unitat didàctica, cal que la nota de cada unitat didàctica no sigui inferior a 4 per tal d'aprovar el RA.
 
 ## Segona convocatòria
 
-Cas que no se superi algun RA, a segona convocatòria 
-**mirar com quadrar NF i RA tant per les notes trimestrals, com sobretot segona convocatòria o més fàcil ho mantenim per unitats**
+Cas que no se superi algun RA, a segona convocatòria caldrà avaluar només els RA suspesos, per fer-ho, caldrà fer una prova de les unitats didàctiques corresponents, substiuint-se la nota obtinguda d'aquella unitat en primera convocatòria.
 
 ## Enllaços al contingut
 
