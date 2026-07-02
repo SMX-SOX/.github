@@ -22,11 +22,9 @@ A la programació del mòdul teniu detallada tota la informació sobre el contin
 
 El mòdul s'organitza en 3 nuclis formatius (NF):
 
-- NF1: Administració de sistemes operatius en xarxa GNU/Linux.
-- NF2: Administració de sistemes operatius en xarxa Microsoft Windows.
-- NF3: Integració de sistemes operatius en xarxa.
-
-Els nuclis formatius s'imparteixen cadascun d'ells a un dels trimestres del curs, amb una durada de 44 hores aproximadament.
+- NF1: Administració de sistemes operatius en xarxa GNU/Linux (52 hores).
+- NF2: Administració de sistemes operatius en xarxa Microsoft Windows (58 hores).
+- NF3: Integració de sistemes operatius en xarxa (22 hores).
 
 ## Avaluació del mòdul
 
@@ -42,7 +40,8 @@ Per aprovar el mòdul professional:
 
 - La nota del mòdul ha de ser superior o igual a 5.
 - La nota de cadascun dels RA (resultats d’aprenentatge ha de ser igual o superior a 5).
-- Quan un RA estigui es toqui en més d'unitat didàctica, cal que la nota de cada unitat didàctica no sigui inferior a 4 per tal d'aprovar el RA.
+- Cal  que la nota de cada unitat didàctica sigui igual o superior a 5.
+- En el cas de les proves pràctiques, cal que la nota sigui igual o superior a 4 per poder aprovar la unitat corresponent.
 
 ## Segona convocatòria
 
