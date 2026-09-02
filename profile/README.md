@@ -131,4 +131,4 @@ Cas que no se superi algun RA, a segona convocatòria caldrà avaluar només els
 
 - [Programació del mòdul](https://github.com/SMX-SOX/programacio)
 - [Materials del mòdul](https://github.com/SMX-SOX/materials)
-- [Activitats](https://github.com/SMX-SOX/activitat)
+- [Activitats](https://github.com/SMX-SOX/activitats)
