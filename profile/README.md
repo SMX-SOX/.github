@@ -113,7 +113,7 @@ Tot i que l'avaluació es basa en els Resultats d'Aprenentatge (RA), que és el 
 ### Qualificació del mòdul
 
 $$
-QMP = 0,15 \cdot QRA_1 + 0,15 \cdot QRA_2 + 0,15 \cdot QRA_3 + 0,15 \cdot QRA_4 + 0,15 \cdot QRA_5 + 0,15 \cdot QRA_6 + 0,10 \cdot QEM
+Q_{MP} = 0,15 \cdot QRA_1 + 0,15 \cdot QRA_2 + 0,15 \cdot QRA_3 + 0,15 \cdot QRA_4 + 0,15 \cdot QRA_5 + 0,15 \cdot QRA_6 + 0,10 \cdot QEM
 $$
 
 Per aprovar el mòdul professional:
